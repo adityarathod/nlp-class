@@ -6,6 +6,7 @@ a fun little nlp class taken in spring 2023.
 
 | number | title           | links                                                                       |
 | ------ | --------------- | --------------------------------------------------------------------------- |
-| hw0    | overview of nlp | [pdf](./hw0/nlp_overview.pdf) [md](./hw0)                                   |
-| hw1    | python basics   | [md](./hw1/README.md) [person.py](./hw1/person.py) [main.py](./hw1/main.py) |
-| hw2    | nltk text processing + guessing game   | [md](./hw2/README.md) [game.py](./hw2/game.py) [main.py](./hw2/main.py) |
+| hw0    | overview of nlp | [pdf](./hw0/nlp_overview.pdf) / [md](./hw0)                                   |
+| hw1    | python basics   | [md](./hw1/README.md) / [person.py](./hw1/person.py) / [main.py](./hw1/main.py) |
+| hw2    | nltk text processing + guessing game   | [md](./hw2/README.md) / [game.py](./hw2/game.py) / [main.py](./hw2/main.py) |
+| hw3    | WordNet + SentiWordNet + Collocations   | [md](./hw3/README.md) / [WordNet.ipynb](./hw3/WordNet.ipynb) / [WordNet.pdf](./hw3/WordNet.pdf) |
