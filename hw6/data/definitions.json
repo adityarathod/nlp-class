@@ -1,0 +1,12 @@
+{
+	"skin": "A non-functional, cosmetic modification to a character model in-game. Serves as the primary form of microtransactions in League of Legends.",
+	"champion": "A playable character in League of Legends. Each champion has its own lore, abilities, mechanics, skins, itemization, and role in the game.",
+	"player": "A user of League of Legends. There are 10 players in a standard game of League. There are approximately 150 million monthly active players.",
+	"team": "A group of (currently) five players, each playing distinct champions, who are partnered together in a game.",
+	"attack": "Any action of a character that deals damage to another champion, neutral objective, or jungle monster.",
+	"ad": "Standing for Attack Damage, is a stat of characters that determines how much damage is dealt via basic attacks (and in some cases, abilities too).",
+	"ap": "Standing for Ability Power, is a stat of characters that determines how much damage is dealt via abilities.",
+	"rift": "Short for 'Summoner's Rift,' this corresponds to one of the two permanent maps where League is played. The Rift is a three-lane map separated by the jungle and split between two teams via a river.",
+	"effect": "Could refer to a status effect in League of Legends. Most status effects fall into the buff or debuff categories. For instance, destroying the red brambleback provides you the 'red buff,' while claiming the Dragon Soul provides you various other buffs. Debuffs are usually in the form of crowd control.",
+	"esports": "League of Legends has a massive esports scene, driven by its large player base. LoL Esports is split into multiple levels, with the highest being the professional teams in each geographic region (e.g. LCS, LCK, LPL, LEC)."
+}
