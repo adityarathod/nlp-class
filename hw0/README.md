@@ -1,4 +1,4 @@
-# Overview of NLP
+# Homework 0: NLP Overview
 
 [PDF version](./nlp_overview.pdf)
 

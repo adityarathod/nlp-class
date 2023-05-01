@@ -1,5 +1,4 @@
-# Assigment 6: Knowledge Base Scraping
-
+# Homework 6: Web Scraping + Knowledge Bases
 
 ## Part 1: Knowledge base creation
 
@@ -41,7 +40,7 @@ I used JSON over pickling because it provided ease in adding new terms to the kn
 
 Additionally, I augmented a lot of this data using LoL API data on champions, skins, and AD/AP ratios for each champion in the game.
 
-Using their Data Dragon API: https://developer.riotgames.com/docs/lol#data-dragon_champions I was able to put together a simple test prototype in which a user can enter a champion and see the information stored by Riot about the champion, and even view each skin:
+Using their [Data Dragon API](https://developer.riotgames.com/docs/lol#data-dragon_champions) I was able to put together a simple test prototype in which a user can enter a champion and see the information stored by Riot about the champion, and even view each skin:
 
 ```bash
 $ python kb_test.py

@@ -1,10 +1,8 @@
-# Program Description
+# Homework 3: WordNet
 
-Quick usage and analysis of WordNet, SentiWordNet, and an exploration of collocations
+Quick usage and analysis of WordNet, SentiWordNet, and an exploration of collocations.
 
-# Running the Program
+## Running the Program
 
 Open [`WordNet.ipynb`](./WordNet.ipynb) in any Jupyter environment.
-
-# PDF version
 A [static PDF version](./WordNet.pdf) is provided for your convenience.

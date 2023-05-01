@@ -1,4 +1,4 @@
-# Assignment 4
+# Homework 4: N-Gram Language Models
 
 ## Running
 
@@ -14,6 +14,8 @@ Run inference on test set:
 - `python3 prog2.py -d dists/ -t ./data/LangId.test -l ./data/LangId.sol`
 
 ## Narrative
+
+![PDF version](./narrative.pdf)
 
 N-grams are a sliding window across a body of text, used in NLP to represent sequences of $n$ consecutive tokens within a text. Depending on the modeling approach, a token can either be a character or a word, or in some cases even a punctuation point. By analyzing these n-grams, language models can predict what words are likely to follow one another, which can be useful in a variety of applications.
 
