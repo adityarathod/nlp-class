@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "hw10"
+version = "0.1.0"
+description = ""
+authors = ["Aditya Rathod <15635979+adityarathod@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+jupyterlab = "^3.6.3"
+tensorflow-macos = "^2.12.0"
+tensorflow-metal = "^0.8.0"
+pandas = "^2.0.0"
+scikit-learn = "^1.2.2"
+matplotlib = "^3.7.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.3.0"
+
