@@ -14,3 +14,7 @@ a fun little nlp class taken in spring 2023.
 - [hw8: acl paper critique](./hw8)
 - [hw9: text classification ii](./hw9)
 - [project: chatbot](./project)
+
+## reflections
+- [skills reflection](skills.md)
+- [course summary/reflection](summary.md)
